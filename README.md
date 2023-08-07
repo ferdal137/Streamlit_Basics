@@ -1,6 +1,6 @@
 # Streamlit Basics Repository
 
-![Streamlit Logo](https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png)
+![Streamlit Logo](https://raw.githubusercontent.com/streamlit/streamlit/develop/assets/logo_color_sticker.png)
 
 Welcome to the **Streamlit Basics Repository**! This repository contains a collection of simple scripts that cover the fundamental concepts of building interactive web applications using Streamlit.
 
